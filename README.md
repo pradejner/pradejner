@@ -1,5 +1,5 @@
-![](/General Kenobi.gif)  
-[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
+![](/general-kenobi-hello-there.gif)  
+[Source](https://gfycat.com/infamousfatcat-obi-wan-kenobi-star-wars)
 
 - 📫 How to reach me **pejner@proton.me**
 
