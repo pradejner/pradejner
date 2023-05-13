@@ -1,5 +1,5 @@
-![Alt Text](https://tenor.com/view/hello-there-general-kenobi-gif-18841535)
-<h3 align="center">A passionate developer and technology enthusiast</h3>
+![](/General Kenobi.gif)  
+[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
 
 - 📫 How to reach me **pejner@proton.me**
 
