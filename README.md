@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prad</h1>
-<h3 align="center">A technology enthusiast and</h3>
+<h3 align="center">A passionate developer and technology enthusiast</h3>
 
 - 🌱 I’m currently learning **Machine Learning in Python**
 
