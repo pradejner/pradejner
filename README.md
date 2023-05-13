@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prad</h1>
+![Alt Text](https://tenor.com/view/hello-there-general-kenobi-gif-18841535)
 <h3 align="center">A passionate developer and technology enthusiast</h3>
-
-- 🌱 I’m currently learning **Machine Learning in Python**
 
 - 📫 How to reach me **pejner@proton.me**
 
