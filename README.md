@@ -1,8 +1,6 @@
 ![](/general-kenobi-hello-there.gif)  
 [Source](https://gfycat.com/infamousfatcat-obi-wan-kenobi-star-wars)
 
-- 📫 How to reach me **pejner@proton.me**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pradejner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradejner" height="30" width="40" /></a>
@@ -14,7 +12,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradejner&show_icons=true&locale=en&layout=compact" alt="pradejner" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradejner&show_icons=true&locale=en" alt="pradejner" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradejner&" alt="pradejner" /></p>
 
 
